@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/ramdisk/init.ssd.rc:root/init.ssd.rc \
     $(LOCAL_PATH)/ramdisk/init.project.rc:root/init.project.rc \
     $(LOCAL_PATH)/ramdisk/init.charging.rc:root/init.charging.rc \
-    $(LOCAL_PATH)/ramdisk/init.environ.rc:root/init.environ.rc \
     $(LOCAL_PATH)/ramdisk/ueventd.rc:root/ueventd.rc \
     $(LOCAL_PATH)/ramdisk/ueventd.mt8127.rc:root/ueventd.mt8127.rc \
     $(LOCAL_PATH)/ramdisk/factory_init.project.rc:root/factory_init.project.rc \
